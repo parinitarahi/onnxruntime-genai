@@ -51,12 +51,14 @@ See full documentation at [https://onnxruntime.ai/docs/genai].
 
 ## Installation
 
-If you don't know which hardware capabilities is available on your device.
-* Windows GPU (use DirectML): [Verify if you have Windows GPU](https://www.microsoft.com/en-us/windows/learning-center/how-to-check-gpu)
-
+If you don't know which hardware capability is available on your device.
+* Windows with a GPU (use DirectML): [Verify if you have Windows GPU](https://www.microsoft.com/en-us/windows/learning-center/how-to-check-gpu)
+ 
 * CUDA GPU: [Verify if you have CUDA GPU](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html#verify-you-have-a-cuda-capable-gpu)
 
 * CPU and Mobile: For Windows, Mac, Android and other devices use the CPU and Mobile option below
+
+Only one package is required based on your hardware.
 
 ### Windows GPU  (DirectML) 
 
